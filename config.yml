@@ -16,7 +16,7 @@ math: true
 
 minify:
     disableXML: true
-    # minifyOutput: true
+    minifyOutput: true
 
 languages:
     pt:
